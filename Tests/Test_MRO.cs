@@ -30,6 +30,7 @@ namespace GailSpecFlow.Tests
             Mp.MRU.Click();
             Mp.BtnSave.Click();
             Methods.MROValidation();
+            Console.WriteLine("Test");
         }
     }
 }

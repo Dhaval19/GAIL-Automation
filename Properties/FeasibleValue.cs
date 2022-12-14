@@ -8,6 +8,6 @@ namespace GailSpecFlow.Properties
 {
     public class FeasibleValue
     {
-        public string PipingValue = "11.8";        
+        public string PipingValue = "11.8";                
     }
 }
